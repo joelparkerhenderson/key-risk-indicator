@@ -1,174 +1,104 @@
 <!--
   * browser: key-performance-indicator
-  * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 5.0.0
-  * updated: 2018-02-24T03:07:25Z
+  * tracker: 88d18445ffe6fd1b1583aac35374c920
+  * version: 1.0.0
+  * updated: 2019-02-22
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
 
-# Key Performance Indicator (KPI)
+# Key Risk Indicator (KRI)
 
-<img src="README.png" alt="Key Performance Indicator" style="width: 100%;"/>
+<img src="README.png" alt="Key Risk Indicator" style="width: 100%;"/>
+
+A key risk indicator (KRI) is a measure used in management to indicate how risky an activity is. This page is summary excerpts from [Wikipedia / Key risk indicator](https://en.wikipedia.org/wiki/Key_risk_indicator).
+
 
 Contents:
 
 * [What is a KPI?](#what-is-a-kpi)
-* [How to define a KPI](#how-to-define-a-kpi)
-* [How to improve a KPI](#how-to-improve-a-kpi)
-* [Indicators](#indicators)
-* [Key Leading Indicator (KLI)](#key-leading-indicator-kli)
-* [Key Performance Measure (KPM)](#key-performance-measure-kpm)
-* [Measure vs. metric](#measure-vs-metric)
-* [Credits and links](#credits-and-links)
 
-<subcontents>
 
-KPI examples:
+## What is a KRI?
 
-* [Finance](examples/finance.md)
-* [Business process](examples/business_process.md)
-* [Ecommerce](examples/ecommerce.md)
-* [Efficiency](examples/efficiency.md)
-* [Compliance](examples/compliance.md)
-* [Service level agreements (SLAs)](examples/service_level_agreements.md)
-* [Service quality](examples/service_quality.md)
-* [Programmers](examples/programmers.md)
-* [DevOps](examples/devops.md)
-* [Kanban](examples/kanban.md)
 
-</subcontents>
+A key risk indicator (KRI) is a measure used in management to indicate how risky an activity is. 
 
+Key risk indicators are metrics used by organizations to provide an early signal of increasing risk exposures in various areas of the enterprise. It differs from a key performance indicator (KPI) in that the latter is meant as a measure of how well something is being done while the former is an indicator of the possibility of future adverse impact. 
 
-## What is a KPI?
+KRI give an early warning to identify potential event that may harm continuity of the activity/project.
 
-A key performance indicator (KPI) is a type of performance measurement.
+KRIs are a mainstay of operational risk analysis.
 
-* A KPI evaluates the success of an organization or activity.
 
-* Choosing the right KPIs needs good understanding of what is important to the organization.
+## What is the best KRI?
 
-Success examples:
+Organizations have different sizes and environment. 
 
-* Repeated periodic achievement of an operational goal, such as 100% customer satistfaction, or zero defects, etc.
+So every enterprise should choose its own KRI, taking into account the following steps:
 
-* Making progress toward strategic goals.
+  * Consider the different stakeholders of the organization
 
-Wikipedia pages:
+  * Make a balanced selection of risk indicators, covering performance indicators, lead indicators and trends
 
-* [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator)
+  * Ensure that the selected indicators drill down to the root cause of the events
 
-* [Performance measurement](https://en.wikipedia.org/wiki/Performance_measurement)
+  * Choose high relevant and high probability of predicting important risks: high business impact, easy to measure, high correlation with the risk, and sensitivity.
+ 
+  * Determine thresholds and triggers for the set of KRI's
 
-Our related guides that use KPIs:
+  * Locate and fold in data sources that contribute or feed data into KRI triggers
 
-* [Strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
+  * Determine notification methods, recipients, and action or response sequences
 
-* [System quality attributes](https://github.com/joelparkerhenderson/system_quality_attributes)
 
+## How can a KRI help?
 
-## How to define a KPI
+The constant measure of KRI can bring the following benefits to the organization:
 
-To define a KPI, you can cover these areas:
+  * Provide an early warning: a proactive action can take place
 
-* Title: use an exact name to avoid ambiguity
+  * Provide a backward looking view on risk events, so lesson can be learned by the past
 
-* Objective: the relation of the indicator with the organizational objectives must be clear
+  * Provide an indication that the risk appetite and tolerance are reached
 
-* Scope: state the areas of business and/or parts of the organization that are included and/or excluded.
+  * Provide real time actionable intelligence to decision makers and risk managers
 
-* Target: Benchmarks must be determined in order to monitor progress
 
-* Formula: the exact calculation of the indicator
+## What makes a good KRI?
 
-* Units: what is/are the unit(s) of measurement in use
+Qualities of good key risk indicators:
 
-* Frequency: when is the indicator recorded and reported
+  * Ability to measure the right thing (e.g., supports the decisions that need to be made)
 
-* Data source: the exact data sources involved in calculating a indicator value
+  * Quantifiable (e.g., damages in dollars of profit loss)
 
-* Owner: the accountable person for the indicator
+  * Capability to be measured precisely and accurately
 
-* Comments: any outstanding issues regarding the indicator
+  * Ability to be validated against ground truth, and confidence level one has in the assertions made within the framework of the metric
 
 
-## How to improve a KPI
+## How to handle KRI?
 
-To improve a KPI, you can ask these questions:
+Management selects a risk response strategy for specific risks identified and analyzed, which may include:
 
-* Does it clearly define what constitutes success?
+  * Avoidance: exiting the activities giving rise to risk
 
-* Does it clearly relate to a strategic objective and key result (OKR)?
+  * Reduction: taking action to reduce the likelihood or impact related to the risk
 
-* Does it provide the information required to set SMART goals?
+  * Alternative Actions: deciding and considering other feasible steps to minimize risks
 
-* Does it accurately portray progress and probability of achieving both long-term strategic objectives and near-term milestones?
+  * Share or Insure: transferring or sharing a portion of the risk, to finance it
 
-* Does it identify the root causes of barriers?
+  * Accept: no action is taken, due to a cost/benefit decision
 
-* Does it focus the organization on the priority improvement needs?
+Monitoring is typically performed by management as part of its internal control activities, such as review of analytical reports or management committee meetings with relevant experts, to understand how the risk response strategy is working and whether the objectives are being achieved.
 
-* Does it drive the behavior and actions required to achieve the objectives?
 
-* Does it align work with value?
+## Links
 
+Wikipedia:
 
-## Indicators
+  * [Risk management](https://en.wikipedia.org/wiki/Risk_management)
 
-* Quantitative indicators: can be presented with a number.
-
-* Qualitative indicators: can't be presented as a number.
-
-* Leading indicators: predict the outcome of a process
-
-* Lagging indicators: present the success or failure post hoc
-
-* Input indicators: measure the amount of resources consumed during the generation of the outcome
-
-* Process indicators: represent the efficiency or the productivity of the process
-
-* Output indicators: reflect the outcome or results of the process activities
-
-* Practical indicators: interface with existing company processes.
-
-* Directional indicators: specifying how something is changing, such as getting better or worse.
-
-* Actionable indicators: sufficiently in an organization's control to effect change.
-
-* Financial indicators: used in performance measurement and when looking at an operating index.
-
-
-## Key Leading Indicator (KLI)
-
-A Key Leading Indicator (KLI) is a KPI that tends to show up earliest.
-
-
-## Key Performance Measure (KPM)
-
-A Key Performance Measure (KPM) is how you measure a KPI.
-
-
-## Measure vs. metric
-
-There is overlap between a measure and a metric.
-
-* A measure is concrete, usually measure one thing, and are quantitative in nature (e.g. I have five apples).
-
-* A metric describe a quality and require a measurement baseline (I have five more apples than I did yesterday).
-
-Examples:
-
-* A measure can be useful for demonstrating workloads and activity
-
-* A metric can be useful for evaluating compliance, processes effectiveness, and measuring success against established objectives.
-
-
-## Credits and links
-
-* [PNMsoft KPI Examples](http://www.pnmsoft.com/resources/bpm-tutorial/key-performance-indicators/)
-
-* [Metrics and Performance Measurement System for the Lean Enterprise](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-852j-integrating-the-lean-enterprise-fall-2005/lecture-notes/12_metrics.pdf)
-
-* [Speed, Accuracy, Quality, and Joy: Four areas every product manager should focus on to increase their team intelligence](https://productcoalition.com/four-areas-every-product-manager-should-focus-on-to-increase-team-intelligence-829bb9e269e2)
-
-* [Quora: What are good KPIs for programmers](https://www.quora.com/What-are-good-KPIs-for-programmers)
+  * [Enterpriserisk management](https://en.wikipedia.org/wiki/Enterprise_risk_management)
