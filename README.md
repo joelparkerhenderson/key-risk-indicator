@@ -104,6 +104,8 @@ Monitoring is typically performed by management as part of its internal control 
 
 Wikipedia:
 
-  * [Risk management](https://en.wikipedia.org/wiki/Risk_management)
+  * [Key risk indicator](https://wikipedia.org/wiki/Key_risk_indicator)
 
-  * [Enterpriserisk management](https://en.wikipedia.org/wiki/Enterprise_risk_management)
+  * [Risk management](https://wikipedia.org/wiki/Risk_management)
+
+  * [Enterprise risk management](https://wikipedia.org/wiki/Enterprise_risk_management)
