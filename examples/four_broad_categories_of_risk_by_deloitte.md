@@ -5,11 +5,11 @@ Credit: [Key Risk Indicators– by Deloitte](https://www.rims.org/annualconferen
 
 ## Strategic risks
 
-  * Demain shortfalls
+  * Demand shortfalls
 
   * Customer problems
 
-  * M&amp;A problems
+  * M&A problems
 
   * Pricing pressures
 
