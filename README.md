@@ -36,6 +36,34 @@ KRI give an early warning to identify potential event that may harm continuity o
 KRIs are a mainstay of operational risk analysis.
 
 
+## KRI examples
+
+
+Key risk indicators for finance:
+
+* letters of intent (LOI) such as dollar value ($).
+
+* value at risk (VaR) such as dollar value ($).
+
+Key risk indicators for marketing:
+
+* customer complaints (CC) such as incident count (#) for previous N days
+
+* net detractor score (NDS) such as measured per cohort
+
+Key risk indicators for operations:
+
+* unplanned unavailability (UU) such as incident count (#) for previous N days
+
+* mean time to recovery (MTTR) such as for the previous N incidents
+
+Key risk indicators for queues, pipelines, funnels, processes, etc:
+
+* σ: dropout rate
+
+* ε: error ratio
+
+
 ## What is the best KRI?
 
 Organizations have different sizes and environment. 
