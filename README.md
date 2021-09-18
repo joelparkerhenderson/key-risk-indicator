@@ -41,15 +41,15 @@ KRIs are a mainstay of operational risk analysis.
 
 Key risk indicators for finance:
 
-* letters of intent (LOI) such as dollar value ($).
+* letters of intent (LOI) such as unbooked dollar value ($)
 
-* value at risk (VaR) such as dollar value ($).
+* value at risk (VaR) such as investment dollar value ($)
 
 Key risk indicators for marketing:
 
 * customer complaints (CC) such as incident count (#) for previous N days
 
-* net detractor score (NDS) such as measured per cohort
+* net detractor score (NDS) such as measured per user cohort
 
 Key risk indicators for operations:
 
