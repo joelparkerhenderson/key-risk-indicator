@@ -17,6 +17,7 @@ A key risk indicator (KRI) is a measure used in management to indicate how risky
 Contents:
 
 * [What is a KRI?](#what-is-a-kri)
+* [KRI examples](#kri-examples)
 * [What is the best KRI?](#what-is-the-best-kri)
 * [How can a KRI help?](#how-can-a-kri-help)
 * [What makes a good KRI?](#what-makes-a-good-kri)
